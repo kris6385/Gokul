@@ -106,7 +106,7 @@ h3{
 }
 .homecontent{
     width: 100%;
-    height: 86% !important;
+    height: 65% !important;
     background-color:black;
     display: flex;
     align-items: center;
@@ -303,7 +303,7 @@ h3{
  }
 .resumecontent{
     width: 100%;
-    height: 60%;
+    height: 40%;
     background-color: black;
     color: white;
     display: flex;
@@ -399,7 +399,7 @@ p{
 }
 .button9{
     width: 100%;
-    height: 25%;
+    height: 15%;
     background-color: black;
     display: flex;
     align-items: end;
@@ -418,7 +418,7 @@ p{
 }
 .Servicescontent{
     width: 100%;
-    height: 40%;
+    height: 15%;
     background-color:black;
     display: flex;
     align-items: center;
@@ -432,7 +432,7 @@ p{
     font-weight: 700;
     font-family:"Poppins",Arial,sans-serif ;
     position: absolute;
-    top: 90px;
+    top: 19px;
 }
 .subservices{
     color: #1A1A1A;
@@ -468,7 +468,7 @@ p{
 
 .servicesimg{
     width: 100%;
-    height: 80%;
+    height: 100%;
     color:white;
     font-size: 13px;
     font-weight: 500;
@@ -521,7 +521,7 @@ hr{
 }
 .skillcontent{
     width: 100%;
-    height: 60%;
+    height: 30%;
     background-color: black;
     display: flex;
     justify-content: end;
@@ -617,71 +617,71 @@ hr{
     width: 90%;
     height: 10%;
     border-radius: 2px;
-    background-color: gray;
+    background-color: grey;
 }
 .hr2{
-    width: 0%;
+    width: 90%;
     height: 100%;
     border-radius: 2px;
     background-color:grey ;
 }
 .hr3{
-    width:0%;
+    width:85%;
     height: 100%;
     border-radius: 2px;
     background-color: grey;
 }
 .hr4{
-    width: 0%;
+    width: 95%;
     height: 100%;
     border-radius: 2px;
     background-color: grey;
 }
 .hr5{
-    width: 0%;
+    width: 70%;
     height: 100%;
     border-radius: 2px;
     background-color: grey;
 }
 .hr6{
-    width: 0%;
+    width: 80%;
     height: 100%;
     border-radius: 2px;
     background-color: grey;
 }
-.skilllavel1:hover .hr2{
+.skilllavel1 .hr2{
     width: 90%;
-    transition: width;
+    /* transition: width;
     transition-duration: 2s;
-    transition-timing-function: linear;
+    transition-timing-function: linear; */
     background-color: orange;
 } 
-.skilllavel1:hover .hr3{
+.skilllavel1 .hr3{
     width: 85%;
-    transition: width;
+    /* transition: width;
     transition-duration: 2s;
-    transition-timing-function: linear;
+    transition-timing-function: linear; */
     background-color: orange;
 } 
-.skilllavel1:hover .hr4{
+.skilllavel1 .hr4{
     width: 95%;
-    transition: width;
+    /* transition: width;
     transition-duration: 2s;
-    transition-timing-function: linear;
+    transition-timing-function: linear; */
     background-color: orange;
 } 
-.skilllavel1:hover .hr5{
+.skilllavel1 .hr5{
     width: 70%;
-    transition: width ;
+    /* transition: width ;
     transition-duration: 2s;
-    transition-timing-function: linear;
+    transition-timing-function: linear; */
     background-color: orange;
 } 
-.skilllavel1:hover .hr6{
+.skilllavel1 .hr6{
     width: 80%;
-    transition: width;
+    /* transition: width;
     transition-duration: 2s;
-    transition-timing-function: linear;
+    transition-timing-function: linear; */
     background-color: orange;
 }
 .projectcontent{
@@ -691,7 +691,7 @@ hr{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: -50px;
+    margin-top: -250px;
      position: relative;
      margin-bottom: 50px;
   
@@ -790,7 +790,7 @@ hr{
     opacity: 0.9;
 }
 .ptaghead1{
-    width: 100%;
+    width: 99%;
     height: 99%;
     background-color:  rgb(255,189,57);
     display: flex;
@@ -879,7 +879,7 @@ hr{
     opacity: 0.9;
 }
 .ptaghead3{
-    width: 100%;
+    width: 98%;
     height: 99%;
     background-color:  rgb(255,189,57);
     display: flex;
@@ -966,7 +966,7 @@ hr{
     opacity: 0.9;
 }
 .ptaghead5{
-    width: 100%;
+    width: 98%;
     height: 99%;
     background-color:  rgb(255,189,57);
     display: flex;
@@ -1067,7 +1067,7 @@ hr{
 
 .contactheat{
     width: 100%;
-    height: 100%;
+    height: 45%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1083,7 +1083,7 @@ hr{
     font-family: "Poppins",Arial,sans-serif;
     color: white;
     position: absolute;
-    top: 215px;
+    top: 55px;
 }   
 .contact2nd{    
     font-size: 89px;
@@ -1111,8 +1111,7 @@ hr{
 }
 .contactimg1{
     width: 49%;
-    height: 100%;
-    background-color: skyblue;
+    height: 100%
 }
 .contactimg1 img{
     width: 559px;
@@ -1165,7 +1164,7 @@ textarea{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: -30px;
+    margin-top: -190px;
 }
 .subhome3{
     width: 89%;
@@ -2356,7 +2355,6 @@ textarea{
     .contactimg1{
         width: 49%;
         height: 100%;
-        /* background-color: skyblue; */
     }
     .contactimg1 img{
         width: 346px;
@@ -2736,7 +2734,7 @@ textarea{
         display: flex;
         justify-content: end;
         flex-direction: column;
-        gap: 20px;
+        gap: 23px;
     }
     .abouttextcontent{
         width: 100%;
@@ -2774,7 +2772,7 @@ textarea{
         color:rgb(255,189,57) ;
     }
      .cvbutton{
-        width: 36%;
+        width: 37%;
         height: 50px;
         font-size: 16px;
         font-weight: 600;
@@ -2788,14 +2786,14 @@ textarea{
      }
     .resumecontent{
         width: 100%;
-        height: 65%;
+        height: 20%;
         background-color: black;
         color: white;
         display: flex;
         align-items: center;
         justify-content: center;
         position: relative;
-        margin-top: 50px;
+        margin-top: 194px;
     } 
     .subresumediv{
         width: 80%;
@@ -3232,7 +3230,7 @@ textarea{
     }
     .ptaghead{
         width: 100%;
-        height: 99%;
+        height: 100%;
         background-color: rgb(255,189,57);
         display: flex;
         justify-content: center;
@@ -3276,7 +3274,7 @@ textarea{
     }
     .ptaghead1{
         width: 100%;
-        height: 99%;
+        height: 100%;
         background-color:  rgb(255,189,57);
         display: flex;
         justify-content: center;
@@ -3600,7 +3598,7 @@ textarea{
         height: auto;
         background-color:black;
    
-        margin-top: -30px;
+        margin-top: -50px;
     }
     .subhome2{
         width: 89%;
