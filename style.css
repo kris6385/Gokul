@@ -738,7 +738,7 @@ hr{
     position: relative;
 }
 .img1 img{
-    width: 300px;
+    width: 100%;
     height: 290px;
 }
 .img1:hover .ptaghead{
@@ -783,7 +783,7 @@ hr{
 }
 
 .img2 img{
-    width: 800px;
+    width: 100%;
     height: 290px;
 }
 .img2:hover .ptaghead1{
@@ -831,7 +831,7 @@ hr{
     position: relative;
 }
 .img3 img{
-    width: 800px;
+    width: 100%;
     height: 290px;
 }
 .img3:hover .ptaghead2{
@@ -872,7 +872,7 @@ hr{
     
 }
 .img4 img{
-    width: 300px;
+    width: 100%;
     height: 290px;
 }
 .img4:hover .ptaghead3{
@@ -919,7 +919,7 @@ hr{
     position: relative;
 }
 .img5 img{
-    width: 800px;
+    width: 100%;
     height: 290px;
 }
 .img5:hover .ptaghead4{
@@ -959,7 +959,7 @@ hr{
     position: relative;
 }
 .img6 img{
-    width: 300px;
+    width: 100%;
     height: 290px;
 }
 .img6:hover .ptaghead5{
