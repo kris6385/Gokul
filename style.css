@@ -733,8 +733,8 @@ hr{
     margin-bottom: 30px;
 }
 .img1{
-    width: 32%;
-    height: 56%;
+    width: 99%;
+    height: 99%;
     position: relative;
 }
 .img1 img{
@@ -746,7 +746,7 @@ hr{
 
 }
 .ptaghead{
-    width: 100%;
+    width: 98%;
     height: 99%;
     background-color: rgb(255,189,57);
     display: flex;
@@ -777,8 +777,8 @@ hr{
 }
 
 .img2{
-    width: 86%;
-    height: 56%;
+    width: 99%;
+    height: 99%;
     position: relative;
 }
 
@@ -790,7 +790,7 @@ hr{
     opacity: 0.9;
 }
 .ptaghead1{
-    width: 99%;
+    width: 100%;
     height: 99%;
     background-color:  rgb(255,189,57);
     display: flex;
@@ -826,8 +826,8 @@ hr{
     margin-bottom: 30px;
 }
 .img3{
-    width: 71%;
-    height: 100%;
+    width: 100%;
+    height: 99%;
     position: relative;
 }
 .img3 img{
@@ -866,8 +866,8 @@ hr{
 }
 
 .img4{
-    width: 48%;
-    height: 100%;
+    width: 98%;
+    height: 99%;
     position: relative;
     
 }
@@ -914,8 +914,8 @@ hr{
     margin-bottom: 30px;
 }
 .img5{
-    width: 71%;
-    height: 100%;
+    width: 100%;
+    height: 99%;
     position: relative;
 }
 .img5 img{
@@ -954,8 +954,8 @@ hr{
     letter-spacing: 2px;
 }
 .img6{
-    width: 48%;
-    height: 100%;  
+    width: 98%;
+    height: 99%;  
     position: relative;
 }
 .img6 img{
