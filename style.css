@@ -733,7 +733,7 @@ hr{
     margin-bottom: 30px;
 }
 .img1{
-    width: 99%;
+    width: 30%;
     height: 99%;
     position: relative;
 }
@@ -777,7 +777,7 @@ hr{
 }
 
 .img2{
-    width: 99%;
+    width: 70%;
     height: 99%;
     position: relative;
 }
@@ -826,7 +826,7 @@ hr{
     margin-bottom: 30px;
 }
 .img3{
-    width: 100%;
+    width: 70%;
     height: 99%;
     position: relative;
 }
@@ -866,7 +866,7 @@ hr{
 }
 
 .img4{
-    width: 98%;
+    width: 30%;
     height: 99%;
     position: relative;
     
@@ -914,7 +914,7 @@ hr{
     margin-bottom: 30px;
 }
 .img5{
-    width: 100%;
+    width: 70%;
     height: 99%;
     position: relative;
 }
@@ -926,7 +926,7 @@ hr{
     opacity: 0.9;
 }
 .ptaghead4{
-    width:800px ;
+    width:800px;
     height: 290px;
     background-color:  rgb(255,189,57);
     display: flex;
@@ -954,7 +954,7 @@ hr{
     letter-spacing: 2px;
 }
 .img6{
-    width: 98%;
+    width: 30%;
     height: 99%;  
     position: relative;
 }
